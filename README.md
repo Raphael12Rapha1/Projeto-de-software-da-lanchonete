@@ -3,7 +3,7 @@ Projeto feito pelos alunos da Faculdade Impacta
 
 Jonathan Bryan dos Santos Borges - RA: 2102156
 
-Maria Eduarda Rodrigues - RA: 2102873
+Maria Eduarda Rosa Rodrigues - RA: 2102873
 
 Pedro Henrique Teixeira Gonçalves -  RA: 2101531
 
